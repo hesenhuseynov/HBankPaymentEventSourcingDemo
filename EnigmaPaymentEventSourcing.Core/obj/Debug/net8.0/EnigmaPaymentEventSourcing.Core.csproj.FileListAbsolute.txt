@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\EnigmaPaymentEventSourcing\EnigmaPaymentEventSourcing.Core\bin\Debug\net8.0\EnigmaPaymentEventSourcing.Core.deps.json
+C:\Users\User\source\repos\EnigmaPaymentEventSourcing\EnigmaPaymentEventSourcing.Core\bin\Debug\net8.0\EnigmaPaymentEventSourcing.Core.dll
+C:\Users\User\source\repos\EnigmaPaymentEventSourcing\EnigmaPaymentEventSourcing.Core\bin\Debug\net8.0\EnigmaPaymentEventSourcing.Core.pdb
+C:\Users\User\source\repos\EnigmaPaymentEventSourcing\EnigmaPaymentEventSourcing.Core\obj\Debug\net8.0\EnigmaPaymentEventSourcing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EnigmaPaymentEventSourcing\EnigmaPaymentEventSourcing.Core\obj\Debug\net8.0\EnigmaPaymentEventSourcing.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EnigmaPaymentEventSourcing\EnigmaPaymentEventSourcing.Core\obj\Debug\net8.0\EnigmaPaymentEventSourcing.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\EnigmaPaymentEventSourcing\EnigmaPaymentEventSourcing.Core\obj\Debug\net8.0\EnigmaPaymentEventSourcing.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EnigmaPaymentEventSourcing\EnigmaPaymentEventSourcing.Core\obj\Debug\net8.0\EnigmaPaymentEventSourcing.Core.dll
+C:\Users\User\source\repos\EnigmaPaymentEventSourcing\EnigmaPaymentEventSourcing.Core\obj\Debug\net8.0\refint\EnigmaPaymentEventSourcing.Core.dll
+C:\Users\User\source\repos\EnigmaPaymentEventSourcing\EnigmaPaymentEventSourcing.Core\obj\Debug\net8.0\EnigmaPaymentEventSourcing.Core.pdb
+C:\Users\User\source\repos\EnigmaPaymentEventSourcing\EnigmaPaymentEventSourcing.Core\obj\Debug\net8.0\ref\EnigmaPaymentEventSourcing.Core.dll

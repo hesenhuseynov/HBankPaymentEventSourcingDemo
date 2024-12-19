@@ -1,0 +1,534 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.application\\commands\\createtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|solutionrelative:enigmapaymenteventsourcing.application\\commands\\createtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCB891F-80F8-4A63-8C98-5FB1A72D9376}|EnigmaPaymentEventSourcing.Tests\\EnigmaPaymentEventSourcing.Tests.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.tests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCB891F-80F8-4A63-8C98-5FB1A72D9376}|EnigmaPaymentEventSourcing.Tests\\EnigmaPaymentEventSourcing.Tests.csproj|solutionrelative:enigmapaymenteventsourcing.tests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCB891F-80F8-4A63-8C98-5FB1A72D9376}|EnigmaPaymentEventSourcing.Tests\\EnigmaPaymentEventSourcing.Tests.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.tests\\enigmapaymenteventsourcing.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECCB891F-80F8-4A63-8C98-5FB1A72D9376}|EnigmaPaymentEventSourcing.Tests\\EnigmaPaymentEventSourcing.Tests.csproj|solutionrelative:enigmapaymenteventsourcing.tests\\enigmapaymenteventsourcing.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58144698-B1DC-4D28-8325-560DBA2DC78A}|EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.infrastructure\\enigmapaymenteventsourcing.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58144698-B1DC-4D28-8325-560DBA2DC78A}|EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj|solutionrelative:enigmapaymenteventsourcing.infrastructure\\enigmapaymenteventsourcing.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.application\\enigmapaymenteventsourcing.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|solutionrelative:enigmapaymenteventsourcing.application\\enigmapaymenteventsourcing.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.application\\commands\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|solutionrelative:enigmapaymenteventsourcing.application\\commands\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.application\\commands\\closeaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|solutionrelative:enigmapaymenteventsourcing.application\\commands\\closeaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58144698-B1DC-4D28-8325-560DBA2DC78A}|EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58144698-B1DC-4D28-8325-560DBA2DC78A}|EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj|solutionrelative:enigmapaymenteventsourcing.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58144698-B1DC-4D28-8325-560DBA2DC78A}|EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.infrastructure\\stores\\transactionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58144698-B1DC-4D28-8325-560DBA2DC78A}|EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj|solutionrelative:enigmapaymenteventsourcing.infrastructure\\stores\\transactionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58144698-B1DC-4D28-8325-560DBA2DC78A}|EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.infrastructure\\stores\\eventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58144698-B1DC-4D28-8325-560DBA2DC78A}|EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj|solutionrelative:enigmapaymenteventsourcing.infrastructure\\stores\\eventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58144698-B1DC-4D28-8325-560DBA2DC78A}|EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.infrastructure\\readmodel\\projectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58144698-B1DC-4D28-8325-560DBA2DC78A}|EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj|solutionrelative:enigmapaymenteventsourcing.infrastructure\\readmodel\\projectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58144698-B1DC-4D28-8325-560DBA2DC78A}|EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.infrastructure\\readmodel\\inmemoryreadmodelstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58144698-B1DC-4D28-8325-560DBA2DC78A}|EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj|solutionrelative:enigmapaymenteventsourcing.infrastructure\\readmodel\\inmemoryreadmodelstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.core\\interfaces\\itransactionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|solutionrelative:enigmapaymenteventsourcing.core\\interfaces\\itransactionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.core\\interfaces\\ieventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|solutionrelative:enigmapaymenteventsourcing.core\\interfaces\\ieventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.core\\events\\withdrawallimitset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|solutionrelative:enigmapaymenteventsourcing.core\\events\\withdrawallimitset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.core\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|solutionrelative:enigmapaymenteventsourcing.core\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.core\\events\\transactioncreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|solutionrelative:enigmapaymenteventsourcing.core\\events\\transactioncreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.core\\events\\moneywithdrawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|solutionrelative:enigmapaymenteventsourcing.core\\events\\moneywithdrawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.core\\events\\moneydeposited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|solutionrelative:enigmapaymenteventsourcing.core\\events\\moneydeposited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.core\\events\\accountcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|solutionrelative:enigmapaymenteventsourcing.core\\events\\accountcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.core\\events\\accountclosed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|solutionrelative:enigmapaymenteventsourcing.core\\events\\accountclosed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.core\\entities\\transactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|solutionrelative:enigmapaymenteventsourcing.core\\entities\\transactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.core\\entities\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E62D25-610F-4AEF-B5F5-C62BA3256936}|EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj|solutionrelative:enigmapaymenteventsourcing.core\\entities\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.application\\queries\\getaccountbalancequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|solutionrelative:enigmapaymenteventsourcing.application\\queries\\getaccountbalancequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.application\\interfacess\\iprojectionupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|solutionrelative:enigmapaymenteventsourcing.application\\interfacess\\iprojectionupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.application\\interfacess\\iaccountreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|solutionrelative:enigmapaymenteventsourcing.application\\interfacess\\iaccountreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.application\\commands\\withdrawmoneycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|solutionrelative:enigmapaymenteventsourcing.application\\commands\\withdrawmoneycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.application\\commands\\setwithdrawallimitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|solutionrelative:enigmapaymenteventsourcing.application\\commands\\setwithdrawallimitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.application\\commands\\transfermoneycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|solutionrelative:enigmapaymenteventsourcing.application\\commands\\transfermoneycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|c:\\users\\user\\source\\repos\\enigmapaymenteventsourcing\\enigmapaymenteventsourcing.application\\commands\\depositmoneycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}|EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj|solutionrelative:enigmapaymenteventsourcing.application\\commands\\depositmoneycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnigmaPaymentEventSourcing.Tests",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Tests\\EnigmaPaymentEventSourcing.Tests.csproj",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Tests\\EnigmaPaymentEventSourcing.Tests.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Tests\\EnigmaPaymentEventSourcing.Tests.csproj",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Tests\\EnigmaPaymentEventSourcing.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T21:59:48.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnigmaPaymentEventSourcing.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Infrastructure\\EnigmaPaymentEventSourcing.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T21:59:44.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnigmaPaymentEventSourcing.Application",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T21:59:41.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventStore.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Infrastructure\\Stores\\EventStore.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Infrastructure\\Stores\\EventStore.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Infrastructure\\Stores\\EventStore.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Infrastructure\\Stores\\EventStore.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:51:19.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectionService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Infrastructure\\ReadModel\\ProjectionService.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Infrastructure\\ReadModel\\ProjectionService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Infrastructure\\ReadModel\\ProjectionService.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Infrastructure\\ReadModel\\ProjectionService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:51:08.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITransactionStore.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Interfaces\\ITransactionStore.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Core\\Interfaces\\ITransactionStore.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Interfaces\\ITransactionStore.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Core\\Interfaces\\ITransactionStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:59.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEventStore.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Interfaces\\IEventStore.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Core\\Interfaces\\IEventStore.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Interfaces\\IEventStore.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Core\\Interfaces\\IEventStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:57.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Core\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Core\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:54.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransactionCreated.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Events\\TransactionCreated.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Core\\Events\\TransactionCreated.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Events\\TransactionCreated.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Core\\Events\\TransactionCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:51.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WithdrawalLimitSet.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Events\\WithdrawalLimitSet.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Core\\Events\\WithdrawalLimitSet.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Events\\WithdrawalLimitSet.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Core\\Events\\WithdrawalLimitSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:49.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MoneyWithdrawn.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Events\\MoneyWithdrawn.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Core\\Events\\MoneyWithdrawn.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Events\\MoneyWithdrawn.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Core\\Events\\MoneyWithdrawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:48.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MoneyDeposited.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Events\\MoneyDeposited.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Core\\Events\\MoneyDeposited.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Events\\MoneyDeposited.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Core\\Events\\MoneyDeposited.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:47.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountCreated.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Events\\AccountCreated.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Core\\Events\\AccountCreated.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Events\\AccountCreated.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Core\\Events\\AccountCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:45.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountClosed.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Events\\AccountClosed.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Core\\Events\\AccountClosed.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Events\\AccountClosed.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Core\\Events\\AccountClosed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:44.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TransactionEvent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Entities\\TransactionEvent.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Core\\Entities\\TransactionEvent.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Entities\\TransactionEvent.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Core\\Entities\\TransactionEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:38.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Entities\\BankAccount.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Core\\Entities\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\Entities\\BankAccount.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Core\\Entities\\BankAccount.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:28.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetAccountBalanceQuery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Queries\\GetAccountBalanceQuery.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Application\\Queries\\GetAccountBalanceQuery.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Queries\\GetAccountBalanceQuery.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Application\\Queries\\GetAccountBalanceQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:22.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProjectionUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Interfacess\\IProjectionUpdater.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Application\\Interfacess\\IProjectionUpdater.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Interfacess\\IProjectionUpdater.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Application\\Interfacess\\IProjectionUpdater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:20.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAccountReadModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Interfacess\\IAccountReadModel.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Application\\Interfacess\\IAccountReadModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Interfacess\\IAccountReadModel.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Application\\Interfacess\\IAccountReadModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:50:16.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WithdrawMoneyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\WithdrawMoneyCommand.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Application\\Commands\\WithdrawMoneyCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\WithdrawMoneyCommand.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Application\\Commands\\WithdrawMoneyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:49:50.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TransferMoneyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\TransferMoneyCommand.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Application\\Commands\\TransferMoneyCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\TransferMoneyCommand.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Application\\Commands\\TransferMoneyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:49:37.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SetWithdrawalLimitCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\SetWithdrawalLimitCommand.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Application\\Commands\\SetWithdrawalLimitCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\SetWithdrawalLimitCommand.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Application\\Commands\\SetWithdrawalLimitCommand.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:49:33.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepositMoneyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\DepositMoneyCommand.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Application\\Commands\\DepositMoneyCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\DepositMoneyCommand.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Application\\Commands\\DepositMoneyCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:49:29.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateTransactionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\CreateTransactionCommand.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Application\\Commands\\CreateTransactionCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\CreateTransactionCommand.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Application\\Commands\\CreateTransactionCommand.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:49:23.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\CreateAccountCommand.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Application\\Commands\\CreateAccountCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\CreateAccountCommand.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Application\\Commands\\CreateAccountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:49:19.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CloseAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\CloseAccountCommand.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Application\\Commands\\CloseAccountCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\Commands\\CloseAccountCommand.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Application\\Commands\\CloseAccountCommand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:49:14.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionStore.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Infrastructure\\Stores\\TransactionStore.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Infrastructure\\Stores\\TransactionStore.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Infrastructure\\Stores\\TransactionStore.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Infrastructure\\Stores\\TransactionStore.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:49:12.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Tests\\BankAccountTests.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Tests\\BankAccountTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Tests\\BankAccountTests.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Tests\\BankAccountTests.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:32:33.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InMemoryReadModelStore.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Infrastructure\\ReadModel\\InMemoryReadModelStore.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Infrastructure\\ReadModel\\InMemoryReadModelStore.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Infrastructure\\ReadModel\\InMemoryReadModelStore.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Infrastructure\\ReadModel\\InMemoryReadModelStore.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:27:18.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "EnigmaPaymentEventSourcing.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "EnigmaPaymentEventSourcing.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:27:16.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

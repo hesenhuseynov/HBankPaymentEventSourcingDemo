@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35507.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnigmaPaymentEventSourcing.Core", "EnigmaPaymentEventSourcing.Core\EnigmaPaymentEventSourcing.Core.csproj", "{92E62D25-610F-4AEF-B5F5-C62BA3256936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnigmaPaymentEventSourcing.Application", "EnigmaPaymentEventSourcing.Application\EnigmaPaymentEventSourcing.Application.csproj", "{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnigmaPaymentEventSourcing.Infrastructure", "EnigmaPaymentEventSourcing.Infrastructure\EnigmaPaymentEventSourcing.Infrastructure.csproj", "{58144698-B1DC-4D28-8325-560DBA2DC78A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnigmaPaymentEventSourcing.Tests", "EnigmaPaymentEventSourcing.Tests\EnigmaPaymentEventSourcing.Tests.csproj", "{ECCB891F-80F8-4A63-8C98-5FB1A72D9376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E62D25-610F-4AEF-B5F5-C62BA3256936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E62D25-610F-4AEF-B5F5-C62BA3256936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E62D25-610F-4AEF-B5F5-C62BA3256936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E62D25-610F-4AEF-B5F5-C62BA3256936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58144698-B1DC-4D28-8325-560DBA2DC78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58144698-B1DC-4D28-8325-560DBA2DC78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58144698-B1DC-4D28-8325-560DBA2DC78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58144698-B1DC-4D28-8325-560DBA2DC78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECCB891F-80F8-4A63-8C98-5FB1A72D9376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCB891F-80F8-4A63-8C98-5FB1A72D9376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCB891F-80F8-4A63-8C98-5FB1A72D9376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCB891F-80F8-4A63-8C98-5FB1A72D9376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92E62D25-610F-4AEF-B5F5-C62BA3256936} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{A0BCC0CF-E5D4-4C01-9FB1-2AEFAF3B0570} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{58144698-B1DC-4D28-8325-560DBA2DC78A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{ECCB891F-80F8-4A63-8C98-5FB1A72D9376} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D88F7724-D1B9-4EF9-A060-C8FCC0F5A047}
+	EndGlobalSection
+EndGlobal

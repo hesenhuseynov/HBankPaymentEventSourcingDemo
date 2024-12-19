@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "EnigmaPaymentEventSourcing.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EnigmaPaymentEventSourcing.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EnigmaPaymentEventSourcing.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnigmaPaymentEventSourcing.Core/1.0.0": {
+      "type": "project",
+      "path": "../EnigmaPaymentEventSourcing.Core/EnigmaPaymentEventSourcing.Core.csproj",
+      "msbuildProject": "../EnigmaPaymentEventSourcing.Core/EnigmaPaymentEventSourcing.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "EnigmaPaymentEventSourcing.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj",
+      "projectName": "EnigmaPaymentEventSourcing.Application",
+      "projectPath": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\EnigmaPaymentEventSourcing.Application.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\EnigmaPaymentEventSourcing\\EnigmaPaymentEventSourcing.Core\\EnigmaPaymentEventSourcing.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
