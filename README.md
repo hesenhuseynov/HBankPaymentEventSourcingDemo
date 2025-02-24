@@ -45,17 +45,3 @@ Replaying all events to answer a simple query (like *“What’s the balance now
    dotnet restore
    dotnet build
    run tests 
-
-Unit tests
-Directly calling command handlers and query handlers in code.
-Unit Tests
-I wrote unit tests to confirm that:
-
-Domain rules hold up under various scenarios:
-You can’t withdraw more than what’s available.
-You can’t deposit after the account is closed.
-Daily limits are respected.
-The right events are emitted when I perform actions (e.g., depositing emits MoneyDeposited).
-Concurrency conflicts raise clear exceptions instead of corrupting data.
-The read model stays aligned with the events, ensuring queries return correct balances and states.
-These tests give me confidence that the system works as intended and can be safely adapted or extended later.
